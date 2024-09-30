@@ -1,12 +1,14 @@
 <h1 align="center">Hi there 👋, I'm Papri Saha</h1>
 <h3 align="center">An enthusiastic Software Quality Assurance Engineer from Bangladesh</h3>
 <br/>
+
 # 💫 **_About Me_**:
 
 🌱 I’m currently learning Performance Testing, Web Automation Testing, Java and JavaScript<br>
 👨‍💻All of my projects are available at https://github.com/PapriSaha<br>
 💬 Ask me about Software Quality Testing
 <br/>
+
 ## 🌐 Socials:
 
 <br/>
