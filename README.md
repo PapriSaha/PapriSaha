@@ -25,7 +25,7 @@
 <div>
   <p align="center">
   <b><em>GitHub Stats:</em></b> <br/>
-  <img src= "https://github-readme-streak-stats.herokuapp.com/?user=PapriSaha&theme=catppuccin_latte&hide_border=false" alt="GitHub Stats" /> <br/><br/>
+  <img src= "https://nirzak-streak-stats.vercel.app/?user=PapriSaha&theme=catppuccin_latte&hide_border=false" alt="GitHub Stats" /> <br/><br/>
 <img src= "https://github-readme-stats.vercel.app/api?username=PapriSaha&theme=catppuccin_latte&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Readme Stats" /><br/><br/>
 <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=PapriSaha&theme=catppuccin_latte&hide_border=false&include_all_commits=true&count_private=false&layout=compact" /> <br/><br/>
 </div>
