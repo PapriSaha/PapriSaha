@@ -46,5 +46,8 @@
   
 </div>
 
+### 👀 Profile Views
+![Profile views](https://komarev.com/ghpvc/?username=PapriSaha&color=blue)
+
 ---
-[![](https://visitcount.itsvg.in/api?id=PapriSaha&icon=0&color=0)](https://visitcount.itsvg.in)
+
