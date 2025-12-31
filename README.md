@@ -3,7 +3,7 @@
 
 ## 💫 **_About Me_**:
 
-🌱 I’m currently learning Web Automation Testing<br>
+🌱 I’m currently learning Security Automation Testing<br>
 👨‍💻All of my projects are available at https://github.com/PapriSaha<br>
 💬 Ask me about Software Quality Testing
 <br/>
